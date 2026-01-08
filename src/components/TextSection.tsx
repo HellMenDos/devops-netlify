@@ -23,3 +23,4 @@ const TextSection = ({ title, description, id }: TextSectionProps) => {
 
 export default TextSection;
 
+

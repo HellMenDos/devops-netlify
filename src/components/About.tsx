@@ -20,10 +20,9 @@ const About = () => {
             </a>
           </div>
           <div className="about__inner__image">
-            <img 
-              src="https://alitdevops.netlify.app/9ccdf6affc7ec8bbe371.png" 
-              alt="Кирилл - Senior FullStack разработчик"
-            />
+            <div className="emoji-circle">
+              <span className="emoji">🚀</span>
+            </div>
           </div>
         </div>
       </div>
